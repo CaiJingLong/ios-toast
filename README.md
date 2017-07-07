@@ -9,7 +9,8 @@ swift 3.1语法
 
 ----
 
-![图片](https://raw.githubusercontent.com/CaiJingLong/ios-toast/master/Toast/Toast/screenshot.png "图片")    
+<img src="https://raw.githubusercontent.com/CaiJingLong/ios-toast/master/Toast/Toast/screenshot.png" width="360" height="640" />
+<!-- ![图片](https://raw.githubusercontent.com/CaiJingLong/ios-toast/master/Toast/Toast/screenshot.png "图片")     -->
 
 ----
 
