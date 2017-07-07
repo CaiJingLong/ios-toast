@@ -14,6 +14,11 @@ swift 3.1语法
 
 ----
 
+背景灰色是因为我把Demo中的ViewController的view的backgroundColor 修改为了gray 不是会覆盖全屏的颜色
+
+## 这里有个小bug
+圆角么有包含全,后续改正
+
 ## 食用方法:
 1. clone 项目
 2. 将source下的方法copy到源码内,如果有文件重名请自己改名
