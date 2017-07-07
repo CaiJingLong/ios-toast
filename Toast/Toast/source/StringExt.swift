@@ -5,7 +5,7 @@
 //  Created by Caijinglong on 2017/7/7.
 //
 
-import Foundation
+import UIKit
 
 extension String{
     func sizeWithFont(_ font:UIFont!) ->CGSize {
