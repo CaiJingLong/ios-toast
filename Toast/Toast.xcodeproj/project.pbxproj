@@ -22,7 +22,7 @@
 		229B7BA31F0F821D005CCAF7 /* ToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229B7BA21F0F821D005CCAF7 /* ToastView.swift */; };
 		229B7BA51F0F87B1005CCAF7 /* UIViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229B7BA41F0F87B1005CCAF7 /* UIViewExt.swift */; };
 		229B7BA71F0F886D005CCAF7 /* TimerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229B7BA61F0F886D005CCAF7 /* TimerHelper.swift */; };
-		229B7BA91F0F894B005CCAF7 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 229B7BA81F0F894B005CCAF7 /* screenshot.png */; };
+		229B7BAB1F0F8BEB005CCAF7 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 229B7BAA1F0F8BEB005CCAF7 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,7 +64,7 @@
 		229B7BA21F0F821D005CCAF7 /* ToastView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToastView.swift; sourceTree = "<group>"; };
 		229B7BA41F0F87B1005CCAF7 /* UIViewExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExt.swift; sourceTree = "<group>"; };
 		229B7BA61F0F886D005CCAF7 /* TimerHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimerHelper.swift; sourceTree = "<group>"; };
-		229B7BA81F0F894B005CCAF7 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
+		229B7BAA1F0F8BEB005CCAF7 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +115,7 @@
 		229B7B681F0F7C27005CCAF7 /* Toast */ = {
 			isa = PBXGroup;
 			children = (
-				229B7BA81F0F894B005CCAF7 /* screenshot.png */,
+				229B7BAA1F0F8BEB005CCAF7 /* screenshot.png */,
 				229B7B971F0F7CE7005CCAF7 /* source */,
 				229B7B691F0F7C27005CCAF7 /* AppDelegate.swift */,
 				229B7B6B1F0F7C28005CCAF7 /* ViewController.swift */,
@@ -272,9 +272,9 @@
 			files = (
 				229B7B9B1F0F7D52005CCAF7 /* ToastView.xib in Resources */,
 				229B7B741F0F7C29005CCAF7 /* LaunchScreen.storyboard in Resources */,
-				229B7BA91F0F894B005CCAF7 /* screenshot.png in Resources */,
 				229B7B711F0F7C29005CCAF7 /* Assets.xcassets in Resources */,
 				229B7B6F1F0F7C28005CCAF7 /* Main.storyboard in Resources */,
+				229B7BAB1F0F8BEB005CCAF7 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
