@@ -5,6 +5,13 @@ swift 3.1语法
     如果想支持其他的语法请自己修改
     这里主要是模仿android端的提示方案
 
+## 截图
+
+----
+
+![图片](https://raw.githubusercontent.com/CaiJingLong/ios-toast/master/Toast/Toast/screenshot.png "图片")    
+
+----
 
 ## 食用方法:
 1. clone 项目
