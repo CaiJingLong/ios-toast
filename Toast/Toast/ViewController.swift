@@ -13,7 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        toast("你好")
+        NSLog("viewDidLoad")
+        runDelay(1) {
+            toast("hello toast")
+        }
     }
 
     override func didReceiveMemoryWarning() {

@@ -24,11 +24,3 @@ class ToastView:UIView{
     }
     
 }
-
-extension UIView{
-    class func loadViewFromXib(_ xibName:String,_ anyClass:AnyClass) -> UIView {
-        let bundle = Bundle(for: anyClass)
-        let nib = UINib(nibName: xibName, bundle: bundle)
-        return nib.instantiate(withOwner: self, options: nil).first as! UIView
-    }
-}
