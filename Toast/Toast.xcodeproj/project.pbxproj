@@ -19,6 +19,7 @@
 		229B7B9D1F0F7EBE005CCAF7 /* CGRectExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229B7B9C1F0F7EBE005CCAF7 /* CGRectExt.swift */; };
 		229B7B9F1F0F7EE2005CCAF7 /* NumberExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229B7B9E1F0F7EE2005CCAF7 /* NumberExt.swift */; };
 		229B7BA11F0F7F07005CCAF7 /* StringExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229B7BA01F0F7F07005CCAF7 /* StringExt.swift */; };
+		229B7BA31F0F821D005CCAF7 /* ToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229B7BA21F0F821D005CCAF7 /* ToastView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		229B7B9C1F0F7EBE005CCAF7 /* CGRectExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CGRectExt.swift; sourceTree = "<group>"; };
 		229B7B9E1F0F7EE2005CCAF7 /* NumberExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberExt.swift; sourceTree = "<group>"; };
 		229B7BA01F0F7F07005CCAF7 /* StringExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExt.swift; sourceTree = "<group>"; };
+		229B7BA21F0F821D005CCAF7 /* ToastView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToastView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 			children = (
 				229B7B9E1F0F7EE2005CCAF7 /* NumberExt.swift */,
 				229B7B9C1F0F7EBE005CCAF7 /* CGRectExt.swift */,
+				229B7BA21F0F821D005CCAF7 /* ToastView.swift */,
 				229B7B9A1F0F7D52005CCAF7 /* ToastView.xib */,
 				229B7B981F0F7CF9005CCAF7 /* Toast.swift */,
 				229B7BA01F0F7F07005CCAF7 /* StringExt.swift */,
@@ -287,6 +290,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				229B7B6C1F0F7C28005CCAF7 /* ViewController.swift in Sources */,
+				229B7BA31F0F821D005CCAF7 /* ToastView.swift in Sources */,
 				229B7B991F0F7CF9005CCAF7 /* Toast.swift in Sources */,
 				229B7B9F1F0F7EE2005CCAF7 /* NumberExt.swift in Sources */,
 				229B7B6A1F0F7C27005CCAF7 /* AppDelegate.swift in Sources */,
